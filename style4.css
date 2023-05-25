@@ -26,5 +26,6 @@
     padding: 20px;
 }
 
-/* Các style khác */
-/* ... */
+.img-logo:hover {
+    cursor: pointer;
+}
